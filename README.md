@@ -1,16 +1,26 @@
-### Hi there 👋
+****
 
-<!--
-**kye-dev/kye-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi 👋, my name is Kye
 
-Here are some ideas to get you started:
+A Java Engineer from the US. Besides programming, I fancy listening to music.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+****
+
+### GitHub Statistics:
+<div align="center">
+    <img alt="Solo's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=kye-dev&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+    &nbsp;&nbsp;&nbsp;
+</div>
+
+****
+
+### Want to know more? Open the colapsible menu below :)
+
+<details>
+  <summary>Projects I Manage</summary>
+  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kye-dev&repo=kye-dev](https://github.com/kye-dev/kye-dev)
+
+</details>
+
+****
