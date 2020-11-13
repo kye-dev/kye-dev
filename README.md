@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 ### 💬 Get in touch
 
-- [Email](business@kyematzen.com)
+- Email: business@kyematzen.com
