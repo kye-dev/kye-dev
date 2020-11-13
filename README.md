@@ -1,7 +1,25 @@
-****
+# Kye Matzen 
 
-### Hi 👋, my name is Kye
+I fancy listening to music
 
-A Java Engineer from the US. Besides programming, I fancy listening to music.
+![Kye Matzen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyematzen&show_icons=true)
 
-****
+<!--
+**kyematzen/kyematzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+
+### 💬 Get in touch
+
+- [Email](business@kyematzen.com)
