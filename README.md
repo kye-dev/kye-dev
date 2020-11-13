@@ -1,4 +1,4 @@
-# Kye Matzen 
+# Kye
 
 ![Kye Matzen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyematzen&show_icons=true)
 
